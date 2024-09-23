@@ -3,9 +3,9 @@ Module Cracking the Code of LIS MASc program
 
 ## Course Overview
 ### About this course
-Module Leader: Dr Niccolo Pescetelli (niccolo.pescetelli@lis.ac.uk)
+Module Leader and Principal Teacher: Dr Niccolo Pescetelli (niccolo.pescetelli@lis.ac.uk)
 
-Principal Teacher: Dr Niccolo Pescetelli (niccolo.pescetelli@lis.ac.uk)
+Teaching Assistant: Jasper Kauchy (jasper@texture.ai)
 
 Hello and welcome to Cracking the Code!
 
